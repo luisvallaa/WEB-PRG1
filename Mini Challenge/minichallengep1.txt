@@ -1,0 +1,72 @@
+<html>
+<h1>About me</h1>
+<body>
+<div>
+	<ol>
+		<li>
+			<a>Me in a Nutshell</a>-<a href="#1"> Link is here</a> 
+		</li><br>
+		<li>
+			Favorite video -<a href="#2"> Link is here</a>
+		</li><br>
+		<li>
+			Favorite audio -<a href="#3"> Link is here</a>
+		</li><br>
+		<li>
+			Lists of interests -<a href="#4"> Link is here</a>
+		</li><br>
+		<li>
+			Academic Life -<a href="file:///Users/luismiguelvalladolid/Desktop/minichallengep2.html"> Link is here.</a>
+		</li><br>
+		<li>
+			Contact Me -<a href="file:///Users/luismiguelvalladolid/Desktop/minichallengep3.html"> Link is here</a>
+		</li>
+	</ol>
+</div>
+
+<div>
+
+	<h2 align = "center" id = "1">Me in a Nutshell</h2>
+		<a>I am a loving man. Humble, loyalty, and respect are some of the values that I practice.
+	I graduated from La Salle Green Hills in High School, and I am currently taking Computer Science Major in 
+	Networking Engineering as a Degree in De La Salle University. I am currently 19 years old, turning 20 
+	on July 23. I take exercise as a priority to have a healthy mind, body, and soul. I believe that
+	life is a gift from God that should not be wasted. Learn every moment, and cherish every moment. Discover
+	new things everyday, and make changes to have improvements and progress in life. Most of all, 
+	always have faith in God, through him anything is possible. </a><br><br>
+
+	<div align = "center" >
+		<img src="universal dp.jpg" alt="My picture" style="width:304px;height:228px;">
+	</div>
+</div>
+
+<div align = "center">
+	<h3 id = "2">Favorite video</h3>
+		<iframe width="854" height="480" src="https://www.youtube.com/embed/0j8frgmdvgc" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div align = "center" id = "3">
+	<h4>Favorite audio</h4>
+		<audio controls>
+			<source src="MyPeak.mp3">
+		</audio>
+</div>
+
+<div>
+	<h5 id = "4">List of interests</h5>
+		<ui>
+			<li>Martial arts</li>
+			<li>Fitness </li>
+			<li>Coding</li>
+			<li>Website making </li>
+			<li>Techniques </li>
+			<li>Wisdom </li>
+			<li>Shoes </li>
+			<li>Clothes </li>
+			<li>Critical thinking </li>
+		</ui>
+</div>
+
+</body>
+</html>
+
